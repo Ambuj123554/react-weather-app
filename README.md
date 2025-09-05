@@ -1,12 +1,39 @@
-# React + Vite
+#  React Weather App  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?logo=Vercel)](https://react-weather-app-xkp2.onrender.com)  
+[![Repo](https://img.shields.io/badge/Repo-GitHub-lightgray?logo=github)](https://github.com/Ambuj123554/react-weather-app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, elegant, and fully responsive **weather application**—built with **React** and styled for modern web interfaces.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+-  **City Search**: Get current weather by entering any city name.
+-  **Detailed Weather Info**: Temperature, humidity, wind speed, and conditions.
+-  **Responsive Design**: Optimized for both mobile and desktop views.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Tech Stack
+| Layer       | Technology                |
+|-------------|---------------------------|
+| Frontend    | React.js                  |
+| API         | OpenWeatherMap API        |
+| Styling     | Tailwind CSS or CSS       |
+| Deployment  | Render                    |
+
+Feel free to specify the exact styling framework (e.g., Tailwind, CSS Modules) if you're using one.
+
+---
+
+##  Live Demo
+Experience the app in action: **[View it here](https://react-weather-app-xkp2.onrender.com)**
+
+---
+
+##  Setup & Installation
+
+```bash
+git clone https://github.com/Ambuj123554/react-weather-app.git
+cd react-weather-app
+npm install
+npm start
