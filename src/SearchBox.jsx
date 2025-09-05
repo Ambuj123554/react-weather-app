@@ -59,7 +59,7 @@ function SearchBox({updateinfo}){
             
             <form onSubmit={handlesubmit}>
                 <TextField id="city" label="City Name" variant="outlined" required value={city} onChange={handlechange}/>
-                <br></br><br></br>
+                
                 <Button variant="contained" type='submit'>
                     Search
                 </Button>
